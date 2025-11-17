@@ -37,21 +37,13 @@
 `Outlier Detection` `Statistical Analysis`
 
 ## Known My Experiences
-<p align="center">
-  <a href="https://github.com/Sathya-2006/Sathya-2006/blob/main/ruba.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Resume-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Sathya-2006/Sathya-2006/blob/main/ruba.pdf" target="_blank">
     <img src="https://img.shields.io/badge/VIEW%20MY%20CV-1ABC9C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Sathya-2006/Sathya-2006/blob/main/ruba.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Touch_to_See_My_CV-00FFAA?style=for-the-badge&logo=readthedocs&logoColor=black">
-  </a>
-</p>
+
 
 
