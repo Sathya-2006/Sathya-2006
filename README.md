@@ -36,5 +36,9 @@
 `Data Cleaning` `Visualization` `Feature Engineering`  
 `Outlier Detection` `Statistical Analysis`
 
-
+<p align="center">
+  <a href="https://github.com/Sathya-2006/Sathya-2006/blob/main/ruba.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Resume-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
+  </a>
+</p>
 
