@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathyaruba M</h1>
 <h3 align="center">AI & Data Science Engineer | ML Developer </h3>
+<img width="1184" height="864" alt="Firefly_Gemini Flash_A developer working on a high-tech computer setup, multiple monitors showing Python c 18338" src="https://github.com/user-attachments/assets/79bc69f0-37d6-48fc-9e82-662d1a14af70" />
+
 
 ## 👤 About Me
 - 🎓 **B.E Artificial Intelligence & Data Science (2023–2027)**  
