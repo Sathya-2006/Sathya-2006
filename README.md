@@ -21,7 +21,9 @@
 
 
 ## 🛠️ Technical Skills
-<img width="225" height="304" alt="image" src="https://github.com/user-attachments/assets/6aaf2261-b65d-439e-a3f6-511b7989a709" />
+  <img width="225" height="304" alt="image" src="https://github.com/user-attachments/assets/6aaf2261-b65d-439e-a3f6-511b7989a709" /><img width="131" height="142" alt="image" src="https://github.com/user-attachments/assets/31b64aa5-562d-425d-9909-285c5f3fbd2a" /><img width="90" height="82" alt="image" src="https://github.com/user-attachments/assets/2c27e8cf-7ca4-4aed-962f-7d8e56f3a310" />
+
+
 
 
 
