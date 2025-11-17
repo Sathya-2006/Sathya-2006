@@ -21,7 +21,7 @@
 
 
 ## 🛠️ Technical Skills
-<img width="149" height="148" alt="download (10)" src="https://github.com/user-attachments/assets/1267d939-d9b4-4acc-993b-0eb88914513a" />
+<img width="225" height="304" alt="image" src="https://github.com/user-attachments/assets/6aaf2261-b65d-439e-a3f6-511b7989a709" />
 
 
 
