@@ -4,7 +4,7 @@
 
 
 ## 👤 About Me
-- 🎓 **B.E Artificial Intelligence & Data Science (2023–2027)**  
+- 🎓 **B.TECH Artificial Intelligence & Data Science (2023–2027)**  
   Velammal Engineering College, Chennai — CGPA: **8.58**
 
 - 👩‍💻 Passionate **AI/ML Developer** with hands-on experience in  
