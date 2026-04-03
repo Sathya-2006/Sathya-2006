@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Sathya-2006/Sathya-2006/blob/main/ruba.pdf" target="_blank">
+  <a href="https://github.com/Sathya-2006/Sathya-2006/blob/main/Sathyaruba_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/VIEW%20MY%20CV-1ABC9C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
