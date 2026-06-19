@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### AI & Data Science Undergraduate | Computer Vision Engineer
+### AI & Data Science Undergraduate | AI Analyst
 
 Hands-on experience in Machine Learning, Computer Vision, and real-time AI systems
 
